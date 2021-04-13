@@ -77,7 +77,7 @@ st.line_chart(df['Volume'])
 
 
 st.header('Data Statistics')
-st.write(df.describe)
+st.write(df.describe())
 
 
 
